@@ -2,7 +2,7 @@
 
 ## General Information
 
-| Name      | miq-BASE |
+| Name      | BlueCat |
 | --- | --- | --- |
 | License   | GPL v2 (see LICENSE file) |
 | Version   | 1.0 |
@@ -20,6 +20,7 @@ Create Namespace, class, schema, instances. Copy and paste into new methods
 Create class schema per:
 
 | Name | Notes |
+| --- | --- |
 | targetDNSZoneId | ObjectID of the DNS zone to create records |
 | targetDNSDomain | String, DNS zone name of target zone |
 | targetDNSViewId | ObjectID of DNS view (would be like "internal", "public", etc. |
